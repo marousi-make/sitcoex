@@ -1,0 +1,43 @@
+{
+  "name": "Sitcoex",
+  "symbol": "STC",
+  "decimals": 18,
+  "contractAddress": "0x9BB48da07cDE81794FD9a4c34c2CAA6f5f69991C",
+  "projectDescription": "Sitcoex (STC) is an oil-backed utility token on BNB Chain enabling secure, fast, and transparent global oil and petrochemical trading via DeFi.",
+  "website": "https://Sitcoex.co",
+  "telegram": "https://t.me/SitcoexToken",
+  "twitter": "https://twitter.com/SitcoexToken",
+  "discord": "https://discord.com/channels/SitcoexToken",
+  "reddit": "https://www.reddit.com/user/sitcoextoken",
+  "youtube": "https://www.youtube.com/@Sitcoextoken",
+  "linkedin": "https://www.linkedin.com/in/SitcoexToken",
+  "tiktok": "https://www.tiktok.com/@sitcoextoken",
+  "email": "sitcoex.com@gmail.com",
+  "logo": "https://raw.githubusercontent.com/marousi-make/sitcoex/master/logo.png",
+  "projectSector": "DeFi / Energy / Commodities",
+  "publicSale": {
+    "tokenSaleAddress": "N/A",
+    "startDate": "N/A",
+    "endDate": "N/A",
+    "tokenPrice": "N/A",
+    "allocation": "N/A",
+    "vestingPeriod": "N/A",
+    "launchpad": "N/A",
+    "country": "N/A",
+    "softCap": "N/A",
+    "hardCap": "N/A",
+    "amountRaised": "N/A",
+    "distributionDate": "N/A"
+  },
+  "privateSale": {
+    "tokenPrice": "N/A",
+    "allocation": "N/A",
+    "vestingPeriod": "N/A",
+    "seedTokenPrice": "N/A",
+    "seedAllocation": "N/A",
+    "seedVestingPeriod": "N/A"
+  },
+  "burnEvents": [],
+  "coinMarketCapTicker": "STC",
+  "coinGeckoTicker": "STC"
+}
